@@ -7,12 +7,6 @@ The system will incorporate a web application that allows students to log in sec
 
 Instructors, on the other hand, will have a separate login to access the system's administrative interface. From this interface, instructors can manage class details, create courses, add students to classes, and monitor attendance statistics in real-time. The system will generate comprehensive attendance reports that can be exported or printed for record-keeping purposes.
 
-
-## Acknowledgements
-
- - [Supervisor's Name](#)
-
-
 ## Authors
 
 - [@olivafreeborn](https://github.com/Oliviafreeborn)
